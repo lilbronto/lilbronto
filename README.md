@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lilbronto (Dayus in the real world)
-- 👀 I’m interested in Math, Philosophy, and Data
+- 👋 Hi there, I’m @lilbronto (Dayus in the real world)
+- 👀 I’m into Math, Philosophy, Finance, Data, and Music
 - 🌱 I currently teach Data Science at Le Wagon
 - 💞️ I’m looking to collaborate on fun Data projects like Image/Video Recognition, NLP, Transformers
 - 📫 You can reach me on Linkedin https://www.linkedin.com/in/dayusmadhan/
