@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @lilbronto (Dayus in the real world)
 - 👀 I’m into Math, Philosophy, Finance, Data, and Music
-- 🌱 I currently teach Data Science at Le Wagon
+- 🌱 I currently am the Head of Machine Learning at INSRD
 - 💞️ I’m looking to collaborate on fun Data projects like Image/Video Recognition, NLP, Transformers
 - 📫 You can reach me on Linkedin https://www.linkedin.com/in/dayusmadhan/
 
