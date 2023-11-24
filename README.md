@@ -1,8 +1,11 @@
 - 👋 Hi there, I’m @lilbronto (Dayus in the real world)
 - 👀 I’m into Math, Philosophy, Finance, Data, and Music
-- 🌱 I currently am the Head of Machine Learning at INSRD
-- 💞️ I’m looking to collaborate on fun Data projects like Image/Video Recognition, NLP, Transformers
+- 🌱 I am currently exploring new work opportunities
 - 📫 You can reach me on Linkedin https://www.linkedin.com/in/dayusmadhan/
+
+- 💞️ My current project wishlist (get in touch if you want to collaborate!):
+    - Computer Vision for probability of danger in security cameras.
+    - A Dungeons & Dragons open-source based local LLM dungeon master.
 
 <!---
 lilbronto/lilbronto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
