@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @lilbronto (Dayus in the real world)
-- 👀 I’m into Math, Philosophy, Finance, Data, and Music
+- 👀 I’m into Math, Philosophy, Data, and Music
 - 🌱 I am currently exploring new work opportunities
 - 📫 You can reach me on Linkedin https://www.linkedin.com/in/dayusmadhan/
 
